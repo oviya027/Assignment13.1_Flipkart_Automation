@@ -14,10 +14,10 @@ User should be able to Land on Flipkart Page
 Login Details    
     Enter Login Details
 
-Select Main group and product
+Select Main Group and Product
     Enter Electronics Section
     Select product from this Section
 
-Verifying product availability
+Verifying Product Availability
     Product verification
     Verify with product title

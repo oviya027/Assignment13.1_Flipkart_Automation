@@ -13,4 +13,4 @@ ${Expected_product_window} =  Mi Redmi 9 Prime ( 64 GB Storage, 4 GB RAM ) Onlin
 ${Add_to_cart} =  xpath=//*[@id="container"]/div/div[3]/div[1]/div[1]/div[2]/div/ul/li[1]/button
 ${Flipkart_home} =  xpath=//*[@id="container"]/div/div[1]/div[1]/div[2]/div[1]/div
 ${Expected_Cart} =  xpath=//*[@id="container"]/div/div[1]/div[1]/div[2]/div[5]/div/div/a
-${Expected_cart_page} =  Redmi 9 Prime (Space Blue, 64 GB)
+${Expected_cart_product} =  Redmi 9 Prime (Space Blue, 64 GB)

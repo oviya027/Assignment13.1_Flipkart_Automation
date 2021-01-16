@@ -46,7 +46,7 @@ Product verification
     Log to Console  Step6
 
 Verify with product title
-    Page Should Contain  ${Expected_cart_page}
+    Page Should Contain  ${Expected_cart_product}
     Log to Console  Step7
 
 
