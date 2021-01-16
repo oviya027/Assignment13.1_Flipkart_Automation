@@ -3,6 +3,8 @@
 ${url_home} =  https://www.flipkart.com/ 
 ${brows} =  gc
 ${Expected_homePage} =  Online Shopping Site for Mobiles, Electronics, Furniture, Grocery, Lifestyle, Books & More. Best Offers!
+${Mobile_number} =  7395985567
+${Account_password} =  password*123
 ${Electronics_Mobile_Page} =  Mobile Phone Cases Covers Screenguards Store Online - Buy Mobile Phone Cases Covers Screenguards Online at Best Price in India | Flipkart.com
 ${Expected_category} =  Electronics
 ${Expected_Subcategory} =  xpath=//a[@title="Mi"]

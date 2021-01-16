@@ -17,8 +17,8 @@ Verify Home Page Title
     Log to Console  Step2
 
 Enter Login Details
-    Input Text  xpath=/html/body/div[2]/div/div/div/div/div[2]/div/form/div[1]/input  7395985567
-    Input Text  xpath=/html/body/div[2]/div/div/div/div/div[2]/div/form/div[2]/input  password*123
+    Input Text  xpath=/html/body/div[2]/div/div/div/div/div[2]/div/form/div[1]/input  ${Mobile_number}
+    Input Text  xpath=/html/body/div[2]/div/div/div/div/div[2]/div/form/div[2]/input  ${Account_password}
     Click Element  xpath=/html/body/div[2]/div/div/div/div/div[2]/div/form/div[3]/button
     Log to Console  Step3
 
